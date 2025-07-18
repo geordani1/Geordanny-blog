@@ -2,7 +2,7 @@
 # Add front matter at the top (required by Jekyll)
 title: "Why I Choose Books Over Other Learning Resources"
 date: 2025-07-08  # Update with your publication date
-categories: [Learning, Books]
+categories: [LEARNING, BOOKS]
 tags: [css, reading, learning-strategies]
 ---
 

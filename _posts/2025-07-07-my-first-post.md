@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2025-07-07 12:00:00 +0000
-categories: [personal, introduction]
+categories: [PERSONAL, INTRODUCTION]
 tags: [personal, introduction]
 ---
 
