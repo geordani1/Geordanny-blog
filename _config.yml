@@ -2,9 +2,9 @@
 
 # Favicon configuration
 favicon:
-  browserconfig: false # Desactiva generación automática
-  webmanifest: false # Desactiva generación automática
-  svg: false # Desactiva favicon SVG
+  browserconfig: false
+  webmanifest: false
+  svg: false
   assets: /assets/img/favicons/
   src: /assets/img/favicons/favicon.ico
   android_chrome:
@@ -48,7 +48,7 @@ social:
   email: geordannydev@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/geordanny # change to your GitHub homepage
+    - https://github.com/geordani1 # change to your GitHub homepage
 
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
