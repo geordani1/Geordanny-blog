@@ -5,7 +5,7 @@ categories: [BLOG, PERSONAL]
 tags: [blogging]     # TAG names should always be lowercase
 ---
 
-HI HI HI HI HI there!!!!, I'm geordanny, I'm right now I'm a student in [Northern Essex Community College](https://www.necc.mass.edu/){:target="_blank"} doing an associote degree in computer science, and in this blog I'm gonna be sharing all the silly things I think, do, and study. I really hope you find something interesting/funny/stupid here.
+HI HI HI HI HI there!!!!, I'm geordanny, right now I'm a student at [Northern Essex Community College](https://www.necc.mass.edu/){:target="_blank"} doing an associote degree in computer science, and in this blog I'm gonna be sharing all the silly things I think, do, and study. I really hope you find something interesting/funny/stupid here.
 
 some question that nobody asked:
 
